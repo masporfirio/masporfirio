@@ -1,25 +1,68 @@
-# Linux IT Support Notes
+# 👋 Hi, I'm Marcelo
 
-Personal study notes and hands-on practice focused on Linux fundamentals and IT Support tasks.
+🎯 Junior Linux / IT Support focused on real-world troubleshooting and system operations.
 
-This repository documents my ongoing learning toward LPIC-101 and practical Linux support skills.
+I’m currently building hands-on experience with Linux systems while preparing for LPIC-101 and LPIC-102 certifications.
 
-## Topics Covered
+---
 
-- CLI navigation and file operations  
-- Files, permissions, and ownership  
-- Users and groups  
-- Processes and services (systemd)  
-- Networking basics (TCP/IP, DNS)  
-- Logs and troubleshooting  
+## 🚀 What I Do
 
-## Structure
+- 🧠 Linux troubleshooting (services, logs, networking)
+- ⚙️ System administration fundamentals
+- 🔍 Log analysis and problem diagnosis
+- 🌐 Network troubleshooting (DNS, TCP/IP)
+- 🛠️ Bash scripting for IT support tasks
 
-- `commands/` → Linux command notes and examples  
-- `permissions/` → file permission concepts  
-- `networking/` → basic networking commands  
-- `logs/` → log analysis and troubleshooting  
+---
 
-## Goal
+## 🧪 Featured Projects
 
-Build consistent practical skills for Junior Linux / IT Support roles while studying for LPIC-101.
+### 🔥 Linux Troubleshooting Labs
+Hands-on labs simulating real-world issues:
+- systemd service failures  
+- port conflicts  
+- DNS problems  
+- SSH access troubleshooting  
+
+👉 Practical, step-by-step problem solving
+
+---
+
+### 📚 LPIC-101 Study
+Structured study notes + hands-on practice:
+- CLI commands  
+- permissions  
+- processes  
+- networking basics  
+
+---
+
+### 🛠️ Bash Support Scripts
+Simple scripts for IT Support tasks:
+- disk usage reports  
+- log analysis  
+- service status checks  
+- backups  
+
+---
+
+## 🧠 Current Focus
+
+- LPIC-101 (in progress / completed)
+- Moving into LPIC-102:
+  - systemd
+  - networking
+  - services and troubleshooting
+
+---
+
+## 🎯 Goal
+
+Become a job-ready Linux / IT Support professional with strong troubleshooting skills.
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/masporfio
