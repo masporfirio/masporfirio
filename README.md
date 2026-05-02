@@ -50,12 +50,16 @@ Simple scripts for IT Support tasks:
 
 ## 🧠 Current Focus
 
-- LPIC-101 (in progress / completed)
-- Moving into LPIC-102:
-  - systemd
-  - networking
-  - services and troubleshooting
+- LPIC-101 completed  
+- Actively preparing for LPIC-102, with hands-on focus on:
 
+  - Bash scripting and automation  
+  - System administration and user management  
+  - systemd and service troubleshooting  
+  - Networking (TCP/IP, DNS, diagnostics)  
+  - Log analysis (journalctl, syslog)  
+  - Basic Linux security practices  
+    
 ---
 
 ## 🎯 Goal
