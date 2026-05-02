@@ -66,8 +66,3 @@ Simple scripts for IT Support tasks:
 
 Become a job-ready Linux / IT Support professional with strong troubleshooting skills.
 
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/masporfio
