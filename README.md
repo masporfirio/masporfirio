@@ -22,6 +22,7 @@ I also use AI tools such as Codex to help me study, review code and improve docu
 
 ### Completed
 
+- **LPIC-1 certified** - Linux Professional Institute
 - Linux Essentials - Linux Professional Institute (2025)
 - LPIC-1 Exam 101 version 5.0 training course - 56 hours (2025)
 - Google Cybersecurity Professional Certificate - Google/Coursera (2024)
@@ -30,7 +31,6 @@ I also use AI tools such as Codex to help me study, review code and improve docu
 
 ### Currently studying
 
-- LPIC-1 Exam 102 topics
 - Python fundamentals for small Linux and IT support tasks
 
 ## Selected repositories
